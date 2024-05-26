@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://app.revolancer.com/u/bzydome](https://app.revolancer.com/u/bzydome)
-
 - 💬 Ask me about **React JS**
 
 - 📫 How to reach me **rohansinghaug00@gmail.com**
